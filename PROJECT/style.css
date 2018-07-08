@@ -1,0 +1,55 @@
+img{
+	width: 800px;
+	height: 800px;
+	position: relative;
+	top: -800px;
+}
+#form {
+	position: relative;
+	left: 900px;
+	width: 300px;
+}
+#form p {
+	font-size: 25px;
+	position: relative;
+	text-align: left;
+}
+#form input {
+	border: 3px solid #EC3232;
+	position: relative;
+}
+#results {
+	background-color: #DCCFCF;
+	width: 500px;
+	height: 500px;
+	position: relative;
+	left: 1270px;
+	top: -1650px;
+}
+#results h2 {
+	text-align: center;
+	font-size: 30px;
+}
+button {
+	font-size: 20px;
+}
+#results p {
+	text-align: center;
+	font-size: 20px;
+	background-color: #47CD5A;
+	color: #FFF;
+}
+#results button {
+	position: relative;
+}
+#Err {
+	text-align: center;
+	font-size: 20px;
+	background-color: #F03838;
+	color: #FFF;
+}
+#test {
+	position: relative;
+	top: -2200px;
+	width: 300px;
+}
